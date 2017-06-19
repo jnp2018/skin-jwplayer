@@ -1,0 +1,245 @@
+.jw_state_paused {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 31;
+}
+.jw_time_tip {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 30;
+}
+.jw_text {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(238, 238, 238);
+  line-height: 0.909;
+  text-align: right;
+  position: absolute;
+  left: 251.937px;
+  top: 298.001px;
+  z-index: 29;
+}
+.thumbnail {
+  background-image: url("thumbnail.png");
+  position: absolute;
+  left: 203px;
+  top: 224px;
+  width: 120px;
+  height: 68px;
+  z-index: 28;
+}
+.jw_background_color {
+  border-radius: 3px;
+  background-color: rgb(33, 33, 33);
+  opacity: 0.8;
+  position: absolute;
+  left: 199px;
+  top: 220px;
+  width: 128px;
+  height: 96px;
+  z-index: 27;
+}
+.jw_controlbar {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 25;
+}
+.jw_icon_playback {
+  background-color: rgb(206, 206, 206);
+  position: absolute;
+  left: 25px;
+  top: 336px;
+  width: 10px;
+  height: 12px;
+  z-index: 24;
+}
+.jw_icon_next {
+  background-color: rgb(206, 206, 206);
+  position: absolute;
+  left: 52px;
+  top: 336px;
+  width: 14px;
+  height: 12px;
+  z-index: 23;
+}
+.jw_icon_rewind {
+  background-color: rgb(206, 206, 206);
+  position: absolute;
+  left: 79px;
+  top: 332px;
+  width: 16px;
+  height: 19px;
+  z-index: 22;
+}
+.jw_text_elapsed {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(238, 238, 238);
+  line-height: 0.909;
+  text-align: right;
+  position: absolute;
+  left: 110.937px;
+  top: 338.001px;
+  z-index: 21;
+}
+._ {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(238, 238, 238);
+  line-height: 0.714;
+  text-align: left;
+  position: absolute;
+  left: 140.916px;
+  top: 338.502px;
+  z-index: 20;
+}
+.jw_text_duration {
+  font-size: 11px;
+  font-family: "Myriad Pro";
+  color: rgb(206, 206, 206);
+  line-height: 0.909;
+  position: absolute;
+  left: 151.937px;
+  top: 338.001px;
+  z-index: 19;
+}
+.jw_slider_time {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 18;
+}
+.jw_knob {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 308px;
+  top: 318px;
+  width: 10px;
+  height: 9px;
+  z-index: 17;
+}
+.jw_progress {
+  border-width: 0px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 255);
+  position: absolute;
+  left: 11px;
+  top: 320px;
+  width: 306px;
+  height: 4px;
+  z-index: 16;
+}
+.jw_buffer {
+  background-color: rgb(131, 131, 131);
+  position: absolute;
+  left: 20px;
+  top: 320px;
+  width: 442px;
+  height: 4px;
+  z-index: 15;
+}
+.jw_rail {
+  background-color: rgb(85, 85, 85);
+  position: absolute;
+  left: 237px;
+  top: 320px;
+  width: 392px;
+  height: 4px;
+  z-index: 14;
+}
+.jw_icon_volume {
+  background-color: rgb(206, 206, 206);
+  position: absolute;
+  left: 472px;
+  top: 335px;
+  width: 16px;
+  height: 14px;
+  z-index: 12;
+}
+.jw_slider_volume {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 11;
+}
+.jw_knob {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 517px;
+  top: 338px;
+  width: 8px;
+  height: 8px;
+  z-index: 10;
+}
+.jw_progress {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 494px;
+  top: 340px;
+  width: 28px;
+  height: 4px;
+  z-index: 9;
+}
+.jw_rail {
+  background-color: rgb(85, 85, 85);
+  position: absolute;
+  left: 494px;
+  top: 340px;
+  width: 63px;
+  height: 4px;
+  z-index: 8;
+}
+.jw_icon_hd {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 569px;
+  top: 336px;
+  width: 19px;
+  height: 12px;
+  z-index: 6;
+}
+.jw_icon_fullscreen {
+  background-color: rgb(206, 206, 206);
+  opacity: 0.8;
+  position: absolute;
+  left: 601px;
+  top: 336px;
+  width: 12px;
+  height: 12px;
+  z-index: 5;
+}
+.jw_background_color {
+  background-image: url(".jw-background-color.png");
+  opacity: 0.8;
+  position: absolute;
+  left: 2px;
+  top: 18px;
+  width: 776px;
+  height: 384px;
+  z-index: 4;
+}
+.video_frame {
+  background-image: url("video frame.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 360px;
+  z-index: 2;
+}
